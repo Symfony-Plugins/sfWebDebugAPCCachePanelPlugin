@@ -1,0 +1,4 @@
+# default values
+all:
+  sf_web_debug_apc_cache_panel:
+    enabled: true
